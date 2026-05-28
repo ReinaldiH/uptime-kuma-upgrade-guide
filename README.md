@@ -20,3 +20,9 @@ pm2 stop uptime-kuma
 
 # Backup folder data ke home user sebagai cadangan
 cp -r data/ ~/kuma-backup-v2-2-1
+
+### 2. Verifikasi Node.js
+Uptime Kuma v2.3.2 sangat disarankan berjalan di Node.js v20 (LTS), dengan batas minimal versi 18.
+
+```bash
+node -v
