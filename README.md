@@ -1,4 +1,4 @@
-# Panduan Upgrade Uptime Kuma Standalone (v2.2.1 ke v2.3.2)
+
 
 Uptime Kuma adalah aplikasi pemantauan (monitoring tool) berbasis open-source yang berfungsi untuk mendeteksi status keaktifan (availability/uptime) dan mengukur waktu respons (response time) dari berbagai layanan infrastruktur IT secara real-time.
 
@@ -12,7 +12,9 @@ Halaman Status Publik (Status Page): Menyediakan fitur untuk membuat halaman tra
 
 Visualisasi Data Analitis: Menyajikan dasbor interaktif yang memetakan grafik performa server dan persentase uptime untuk mempermudah analisis keandalan sistem (system reliability).
 
-## Upgrade dari 2.2.1 ke 2.3.2 pada instalasi standalone memerlukan perhatian khusus pada ketergantungan (*dependencies*) dan hak akses file, terutama karena Anda sebelumnya sempat mengalami masalah "nyangkut" di versi lama.
+# Panduan Upgrade Uptime Kuma Standalone (v2.2.1 ke v2.3.2)
+
+Upgrade dari 2.2.1 ke 2.3.2 pada instalasi standalone memerlukan perhatian khusus pada ketergantungan (*dependencies*) dan hak akses file, terutama karena Anda sebelumnya sempat mengalami masalah "nyangkut" di versi lama.
 
 <img width="1180" height="974" alt="telegram-cloud-photo-size-5-6084640882637345803-y" src="https://github.com/user-attachments/assets/af9565e3-0afc-4063-a515-2ec988339365" />
 
